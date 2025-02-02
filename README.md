@@ -1,0 +1,1 @@
+This example demonstrates how PHP's loose typing and the + operator can cause unexpected type juggling.  The `myFunction` is designed to add two numbers but behaves unexpectedly when one operand is a string. This is a common pitfall when working with PHP's flexibility.
